@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "俺の塩"
-theme = "nix"
+theme = "hugo-theme-nix"
 paginate = 5
 
 [params]
